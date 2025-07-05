@@ -142,7 +142,3 @@ id,nome,idade,salario,departamento
 - Limpeza automática dos arquivos temporários após conclusão
 - Suporte a ordenação tanto numérica quanto alfabética
 - Tratamento de erros para arquivos malformados
-
-## Autor
-
-Implementado seguindo as especificações do trabalho de Estruturas de Dados. 
